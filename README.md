@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HyesunKang
+- 👋 Hi, I’m @Hyesun
 - 👀 I’m interested in data analysis, SQL, data visualization.
 - 🌱 I’m currently learning Power BI, Tableau, and Python
 - 💞️ I’m looking to collaborate on any interesting data analysis.
